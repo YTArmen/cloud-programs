@@ -1,10 +1,16 @@
 [
   {
     "name": "Программа 1",
-    "url": "https://example.com/file1.zip"
+    "description": "Утилита для архивации файлов",
+    "url": "https://example.com/file1.zip",
+    "size": "12.5 MB",
+    "icon": "https://img.icons8.com/color/48/000000/zip.png"
   },
   {
     "name": "Программа 2",
-    "url": "https://example.com/file2.exe"
+    "description": "Редактор изображений с фильтрами",
+    "url": "https://example.com/file2.exe",
+    "size": "25.3 MB",
+    "icon": "https://img.icons8.com/color/48/000000/image.png"
   }
 ]
