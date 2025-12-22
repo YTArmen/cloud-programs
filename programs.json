@@ -1,4 +1,4 @@
-[
+r[
   {
     "name": "Программа 1",
     "description": "Утилита для архивирования файлов",
@@ -15,12 +15,13 @@
   },
   {
     "name": "Программа 3",
-    "description": "Простой текстовый редактор",
-    "url": "https://example.com/files/program3.zip",
+    "description": "Revanced Meneger",
+    "url": "",
     "icon": "https://example.com/icons/text.png",
     "size": "8.7 MB"
   }
 ]
+
 
 
 
