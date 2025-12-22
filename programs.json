@@ -1,16 +1,23 @@
 [
   {
     "name": "Программа 1",
-    "description": "Утилита для архивации файлов",
-    "url": "https://example.com/file1.zip",
-    "size": "12.5 MB",
-    "icon": "https://img.icons8.com/color/48/000000/zip.png"
+    "description": "Утилита для архивирования файлов",
+    "url": "https://example.com/files/program1.zip",
+    "icon": "https://example.com/icons/zip.png",
+    "size": "12.5 MB"
   },
   {
     "name": "Программа 2",
     "description": "Редактор изображений с фильтрами",
-    "url": "https://example.com/file2.exe",
-    "size": "25.3 MB",
-    "icon": "https://img.icons8.com/color/48/000000/image.png"
+    "url": "https://example.com/files/program2.zip",
+    "icon": "https://example.com/icons/image.png",
+    "size": "25.3 MB"
+  },
+  {
+    "name": "Программа 3",
+    "description": "Простой текстовый редактор",
+    "url": "https://example.com/files/program3.zip",
+    "icon": "https://example.com/icons/text.png",
+    "size": "8.7 MB"
   }
 ]
