@@ -1,6 +1,6 @@
 [
   {
-    "name": "Программа 1",
+    "name": "Проверечные файлы",
     "description": "Утилита для архивирования файлов",
     "url": "https://github.com/YTArmen/cloud-programs/raw/refs/heads/main/TrickyAddonModule-v4.0+(2).zip",
     "icon": "https://example.com/icons/zip.png",
@@ -28,6 +28,7 @@
     "size": "8.7 MB"
   }
 ]
+
 
 
 
