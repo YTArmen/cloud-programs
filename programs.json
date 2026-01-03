@@ -23,11 +23,12 @@
   {
     "name": "Информация",
     "description": "Ооткроет само GitHub где лежат все наши программы)",
-    "url": "https://github.com/YTArmen/cloud-programs/blob/ecb675169bf3fbcd6a34b1426d65119fcbe29980/README.md",
+    "url": "https://github.com/YTArmen/cloud-programs/raw/refs/heads/main/README.md",
     "icon": "https://example.com/icons/text.png",
     "size": "8.7 MB"
   }
 ]
+
 
 
 
