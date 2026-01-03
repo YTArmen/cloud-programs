@@ -19,8 +19,16 @@
     "url": "https://github.com/YTArmen/cloud-programs/blob/main/vanced.to_revanced_manager_plus_v3.0.22.apk",
     "icon": "https://example.com/icons/text.png",
     "size": "8.7 MB"
+  },
+  {
+    "name": "Информация",
+    "description": "Ооткроет само GitHub где лежат все наши программы)",
+    "url": "README.md",
+    "icon": "https://example.com/icons/text.png",
+    "size": "8.7 MB"
   }
 ]
+
 
 
 
